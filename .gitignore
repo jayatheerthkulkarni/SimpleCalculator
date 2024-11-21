@@ -1,0 +1,85 @@
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files
+*.jar
+*.war
+*.ear
+
+# Eclipse files
+.metadata/
+.classpath
+.project
+.settings/
+bin/
+
+# NetBeans files
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# IntelliJ IDEA files
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+# VS Code files
+.vscode/
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+
+# Gradle
+.gradle/
+build/
+
+# Classpath file
+.classpath
+
+# Distribution directory
+dist/
+
+# Windows thumbnail cache files
+Thumbs.db
+
+# macOS files
+.DS_Store
+
+# Linux file
+*.swp
+
+# IDE specific extensions
+*.sw?
+
+# Backup files
+*~
+*.bak
+*.tmp
+*.old
+*.orig
+
+# Other
+*.log
+*.lock
+*.env
